@@ -1,0 +1,55 @@
+
+body {
+  background-color: #faf9f8;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.page-title {
+  padding: 10px 10px 10px 10px;
+}
+
+.card {
+  background: #fff;
+  padding: 28px;
+  margin-bottom: 28px;
+  border-radius: 2px;
+  background-clip: padding-box;
+}
+
+
+.main {
+  grid-area: main;
+  padding-left: 40px;
+  padding-right: 40px;
+
+  max-width: calc(100vw - 10px);
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.header {
+  grid-area: header;
+  background-color: #fff;
+  padding: 6px 0px 6px 10px;
+  display: flex;
+}
+
+
+/* Header */
+
+.title {
+    padding: 0px 10px 0px 10px;
+    color: #737373;
+    margin: 6px 0px 6px 10px;
+    border-left: 1px solid darkgray;
+    width: 220px;
+  }
+
+
+.logo {
+  height: 44px;
+}
+
+

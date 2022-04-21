@@ -1,0 +1,19 @@
+---
+title: "ffc_dock"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{ffc_dock}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(ffc.dock)
+```
