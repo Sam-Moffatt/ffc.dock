@@ -1,3 +1,3 @@
-# the.dock.ffc 0.0.0.9000
+# ffc.dock 0.0.0.9000
 
 * Added a `NEWS.md` file to track changes to the package.
