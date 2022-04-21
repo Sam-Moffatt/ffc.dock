@@ -9,7 +9,7 @@
 #'
 #' @noRd
 app_sys <- function(...) {
-  system.file(..., package = "ffc.dock")
+  system.file(..., package = "the.dock.ffc")
 }
 
 
